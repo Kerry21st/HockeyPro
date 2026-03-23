@@ -76,10 +76,13 @@ text
 ## Установка и запуск
 
 1. Клонируйте репозиторий:
-bash
+```
 git clone https://github.com/Kerry21st/hockeypro.git
 Перейдите в папку проекта:
 
 bash
 cd hockeypro
 Откройте файл index.html в браузере или используйте локальный сервер.
+```
+Демо
+Проект доступен по ссылке: https://kerry21st.github.io/calculator/
