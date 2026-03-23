@@ -48,5 +48,5 @@ bash
 cd hockeypro
 Откройте файл index.html в браузере или используйте локальный сервер.
 ```
-Демо
+## Демо
 Проект доступен по ссылке: https://kerry21st.github.io/HockeyPro/
